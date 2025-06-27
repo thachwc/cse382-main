@@ -6,6 +6,8 @@ This repository contains the **5 assigned projects** and my **final project**.
 
 Unfortunately Microsoft has decided to discontinue support for Xamarin as of **May 1, 2024**.
 
+*Author: Wendy Thach*
+
 
 ## Project 1 – USLocations
 **Assignment Goal:**
