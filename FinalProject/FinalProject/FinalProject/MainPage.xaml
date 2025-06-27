@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:FinalProject;assembly=FinalProject"
+            x:Class="FinalProject.MainPage">
+    <TabbedPage.SelectedTabColor>hotpink</TabbedPage.SelectedTabColor>
+    <TabbedPage.BarBackgroundColor>Beige</TabbedPage.BarBackgroundColor>
+    <TabbedPage.UnselectedTabColor>Black</TabbedPage.UnselectedTabColor>
+    <local:CountryPage BackgroundColor="#ffcfce" Title="Countries" IconImageSource="country.png"/>
+    <local:FavoritePage BackgroundColor="#ffcfce" Title="Favorites" IconImageSource="favpage.png"/>
+    <local:HistoryPage BackgroundColor="#ffcfce" Title="History" IconImageSource="history.png"/>
+    <local:SearchPage BackgroundColor="#ffcfce" Title="Search" IconImageSource="search.png"/>
+</TabbedPage>

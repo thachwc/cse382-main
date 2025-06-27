@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project3Calc.MainPage">
+
+    <ContentPage.Resources>
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor"
+                    Value="Firebrick"/>
+            <Setter Property="TextColor"
+                    Value="White"/>
+            <Setter Property="CornerRadius"
+                    Value="3"/>
+            <Setter Property="FontSize"
+                    Value="Body"/>
+            <Setter Property="HorizontalOptions"
+                    Value="Center"/>
+            <Setter Property="WidthRequest"
+                    Value="400"/>
+        </Style>
+        <Style x:Key="numStyle" TargetType="Button">
+            <Setter Property="BackgroundColor"
+                    Value="#394039"/>
+            <Setter Property="CornerRadius"
+                    Value="3"/>
+            <Setter Property="FontSize"
+                    Value="Body"/>
+            <Setter Property="HorizontalOptions"
+                    Value="Center"/>
+            <Setter Property="WidthRequest"
+                    Value="400"/>
+            <Setter Property="TextColor" 
+                    Value="White"/>
+        </Style>
+        <Style x:Key="opStyle" TargetType="Button">
+            <Setter Property="BackgroundColor"
+                    Value="#7a6e4d"/>
+            <Setter Property="CornerRadius"
+                    Value="3"/>
+            <Setter Property="FontSize"
+                    Value="Body"/>
+            <Setter Property="HorizontalOptions"
+                    Value="Center"/>
+            <Setter Property="WidthRequest"
+                    Value="400"/>
+            <Setter Property="TextColor" 
+                    Value="White"/>
+        </Style>
+        <Style x:Key="moneyStyle" TargetType="Button">
+            <Setter Property="BackgroundColor"
+                    Value="RoyalBlue"/>
+            <Setter Property="CornerRadius"
+                    Value="3"/>
+            <Setter Property="FontSize"
+                    Value="Body"/>
+            <Setter Property="HorizontalOptions"
+                    Value="Center"/>
+            <Setter Property="WidthRequest"
+                    Value="400"/>
+            <Setter Property="TextColor" 
+                    Value="White"/>
+        </Style>
+        <Style x:Key="frameLabel" TargetType="Label">
+            <Setter Property="FontSize"
+                    Value="Subtitle"/>
+            <Setter Property="TextColor" 
+                    Value="White"/>
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Padding="10,10,10,10">
+            <Label x:Name="total" Text="0" FontSize="Header" TextColor="Gray" HorizontalOptions="EndAndExpand"/>
+            <StackLayout>
+                <Grid HeightRequest="800"  WidthRequest="100">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1.5*" />
+                        <RowDefinition Height="1.5*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Button Style="{StaticResource numStyle}" Text="+/-" Grid.Row="7" Grid.Column="3" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="." Grid.Row="7" Grid.Column="2" IsEnabled="False"/>
+                    <Button Style="{StaticResource numStyle}" Text="0" Grid.Row="7" Grid.Column="1" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="1" Grid.Row="6" Grid.Column="1" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="2" Grid.Row="6" Grid.Column="2" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="3" Grid.Row="6" Grid.Column="3" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="4" Grid.Row="5" Grid.Column="1" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="5" Grid.Row="5" Grid.Column="2" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="6" Grid.Row="5" Grid.Column="3" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="7" Grid.Row="4" Grid.Column="1" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="8" Grid.Row="4" Grid.Column="2" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource numStyle}" Text="9" Grid.Row="4" Grid.Column="3" Clicked="OnClicked"/>
+                    <Button Text="C" Grid.Row="0" Grid.Column="4" Clicked="OnClicked"/>
+
+                    <Button Style="{StaticResource opStyle}" Text="FINAL" Grid.Row="1" Grid.Column="4" Clicked="OnClicked"/>
+                    <Frame Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="4" Padding="0,0,0,0" CornerRadius="0" BackgroundColor="Black">
+                        <StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Style="{StaticResource frameLabel}" Text="Starting amount:"/>
+                                <Label Style="{StaticResource frameLabel}" x:Name="amount" HorizontalOptions="EndAndExpand" Text="$0"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Style="{StaticResource frameLabel}" Text="Years:"/>
+                                <Label Style="{StaticResource frameLabel}" x:Name="year" HorizontalOptions="EndAndExpand" Text="0"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Style="{StaticResource frameLabel}" Text="Rate of return:"/>
+                                <Label Style="{StaticResource frameLabel}" x:Name="returnRate" HorizontalOptions="EndAndExpand" Text="0%"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Style="{StaticResource frameLabel}" Text="Regular investment:"/>
+                                <Label Style="{StaticResource frameLabel}" x:Name="regular" HorizontalOptions="EndAndExpand" Text="$0"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Style="{StaticResource frameLabel}" Text="Frequency of investment:"/>
+                                <Label Style="{StaticResource frameLabel}" x:Name="frequency" HorizontalOptions="EndAndExpand" Text="Monthly"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Style="{StaticResource frameLabel}" Text="Final Balance:"/>
+                                <Label Style="{StaticResource frameLabel}" x:Name="final" HorizontalOptions="EndAndExpand" Text="$0"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+                    <Button Style="{StaticResource moneyStyle}" Text="FREQ" Grid.Row="2" Grid.Column="4" Clicked="OnClicked"/>
+                    <Button x:Name="iButton" Style="{StaticResource moneyStyle}" Text="INVEST" Grid.Row="2" Grid.Column="3" Clicked="OnClicked"/>
+                    <Button x:Name="rButton" Style="{StaticResource moneyStyle}" Text="RATE" Grid.Row="2" Grid.Column="2" Clicked="OnClicked"/>
+                    <Button x:Name="yButton" Style="{StaticResource moneyStyle}" Text="YEARS" Grid.Row="2" Grid.Column="1" Clicked="OnClicked"/>
+                    <Button x:Name="sButton" Style="{StaticResource moneyStyle}" Text="START" Grid.Row="2" Grid.Column="0" Clicked="OnClicked"/>
+
+
+                    <Button Style="{StaticResource opStyle}" Text="=" Grid.Row="6" Grid.Column="4" Grid.RowSpan="2" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="+" Grid.Row="4" Grid.Column="4" Grid.RowSpan="2" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="-" Grid.Row="3" Grid.Column="4" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="X" Grid.Row="3" Grid.Column="3" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="/" Grid.Row="3" Grid.Column="2" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="%" Grid.Row="3" Grid.Column="1" Clicked="OnClicked" IsEnabled="False"/>
+                    <Button Style="{StaticResource opStyle}" Text="1/X" Grid.Row="3" Grid.Column="0" Clicked="OnClicked" IsEnabled="False"/>
+                    <Button Style="{StaticResource opStyle}" Text="M+" Grid.Row="4" Grid.Column="0" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="M-" Grid.Row="5" Grid.Column="0" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="MR" Grid.Row="6" Grid.Column="0" Clicked="OnClicked"/>
+                    <Button Style="{StaticResource opStyle}" Text="MC" Grid.Row="7" Grid.Column="0" Clicked="OnClicked"/>
+                </Grid>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
+                                       

@@ -1,0 +1,220 @@
+{
+  "ingredients": [
+    {
+      "Sponge cake": "70 grams (1/2 cup) plain flour or all purpose flour\n35 grams (1/4 cup) cornflour or cornstarch\n1/2 teaspoon baking powder\n3 large eggs, room temperature\n50 grams (1/4 cup) caster sugar\n2 tablespoons milk\n1 tablespoon butter",
+      "DessertID": 1
+    },
+    {
+      "Chocolate icing": "40 grams (1/2 cup) cocoa powder\n250 grams (2 cups) icing or powdered sugar\n2 tablespoons unsalted butter, melted\n120 ml (1/2 cup) milk\n120 grams (2 cups) shredded coconut",
+      "DessertID": 1
+    },
+    {
+      "": "6 slices fluffy white bread\n1/2 cup butter\n1/2 cup sprinkles or 100's & 1000's",
+      "DessertID": 2
+    },
+    {
+      "": "250 g self-raising flour\n1/2 tsp salt\n25g butter, chilled and cubed\n175 ml milk",
+      "DessertID": 3
+    },
+    {
+      "": "1 cup plain flour (all purpose flour)\n1 cup rolled oats\n1 cup desiccated coconut , unsweetened\n3/4 cup white sugar , preferably caster / superfine\n150g / 5oz unsalted butter\n4 tbsp golden syrup (1 tbsp light molasses + 3 tbsp honey)\n1 tsp baking soda (bicarbonate soda)",
+      "DessertID": 4
+    },
+    {
+      "Cake": "4 large egg whites (use the yolks for lemon curd!)*\n1 cup (200g) superfine sugar*\n1 teaspoon pure vanilla extract\n1/2 teaspoon cream of tartar*\n1 teaspoon cornstarch",
+      "DessertID": 5
+    },
+    {
+      "Topping": "Homemade whipped cream, fresh fruit, strawberry topping, lemon curd, or any desired topping",
+      "DessertID": 5
+    },
+    {
+      "": "90 gr butter cubed\n150 ml milk\n30 gr sugar\n100 gr flour\n3 egg whites whipped\n1 pinch salt",
+      "DessertID": 6
+    },
+    {
+      "": "500g Buckwheat flour, sieved\n200g Butter\n3 Eggs\n250ml Milk\n20g Caster sugar\n10g Salt\n15g Yeast\nPinch of ground cinnamon",
+      "DessertID": 7
+    },
+    {
+      "Dough": "250 gram all-purpose flour + extra\n125 ml milk\n50 gram sugar\n50 gram butter\n1/2 sachet instant yeast (4 gram)",
+      "DessertID": 8
+    },
+    {
+      "Filling": "750 gram whole milk\npinch of salt\n80 gram dessert rice\n1 sachet vanilla sugar\n80 gram sugar\n2 eggs, divided",
+      "DessertID": 8
+    },
+    {
+      "": "1 egg\ncandy syrup\n1 l milk\n300 gr speculoos\n350 gr gingerbread\n50 gr sugar candy\n1 egg yolk\n2 tbsp cornstarch",
+      "DessertID": 9
+    },
+    {
+      "Cake Batter": "5 sticks plus 5 tablespoons (45 tablespoons) unsalted butter, at room temperature, plus more to grease baking sheets\n3 cups plus 1 1/2 tablespoons sugar\n9 large egg yolks, at room temperature\n4 1/2 cups all-purpose flour, plus more to flour baking sheets\n9 large egg whites, beaten to stiff peaks",
+      "DessertID": 10
+    },
+    {
+      "Filling and Topping": "28 ounces guava paste, chopped\n3/4 cup plus 1 1/2 tablespoons water\n1 1/2 tablespoons port wine (optional)\n18 tablespoons granulated sugar, divided (for the topping)",
+      "DessertID": 10
+    },
+    {
+      "Honey Cakes": "1 1/4 cups whole milk\n1 teaspoon cinnamon\n1/2 teaspoon ground cloves\n1/4 teaspoon freshly grated nutmeg\n1 cup honey\n5 eggs\n1 1/2 cups brown sugar\n1 tablespoon vanilla extract\n1/2 teaspoon salt\n2/3 cup vegetable oil\n1/3 cup Dutch-process cocoa powder\n1 teaspoon baking soda\n1 teaspoon baking powder\n3 cups all-purpose flour",
+      "DessertID": 11
+    },
+    {
+      "Dulce De Leche Filling": " 1 1/2 cups dulce de leche",
+      "DessertID": 11
+    },
+    {
+      "Chocolate icing": "About 30 ounces bittersweet chocolate, chopped",
+      "DessertID": 11
+    },
+    {
+      "": "1 14oz can of sweet condensed milk\n1 cup of unsweetened, shredded coconut\n1 tablespoon of butter plus a little more for your hands\n1/4 cup of heavy cream\n16 whole cloves for decorating optional",
+      "DessertID": 12
+    },
+    {
+      "": "1 kabocha squash or small pumpkin, about 10-14 inches in diameter\n5 large eggs\n3 Tbsp palm sugar paste or granulated brown sugar\n3 Tbsp granulated white sugar\n1 can coconut cream (13.5 oz)\n1/2 tsp salt",
+      "DessertID": 13
+    },
+    {
+      "": "3 ripe bananas\n1 ripe mango (optional)\n1 & 1/2 cups sweet glutinous rice, soaked for at least 6 hours or overnight\n3/4 cup freshly grated coconut\nSalt, to taste\nBanana leaves, 6 of about 15cm x 20cm pieces",
+      "DessertID": 14
+    },
+    {
+      "Sauce (maple ver)": "1 1/2 cups pure maple syrup\n1 1/2 cups heavy whipping cream (35% m.f.)\n1/2 tsp kosher salt, or fine sea salt",
+      "DessertID": 15
+    },
+    {
+      "Sauce (traditional ver)": "1 1/2 cups packed brown sugar\n1 1/2 cups water\n1 tbsp all-purpose flour",
+      "DessertID": 15
+    },
+    {
+      "Cake": "1 1/2 cups all-purpose flour\n2 tsp baking powder\n1/2 tsp kosher salt, or fine sea salt\n1/2 cup unsalted butter, softened\n1 cup granulated sugar\n2 eggs\n\u00be cup milk\n1 tsp pure vanilla extract",
+      "DessertID": 15
+    },
+    {
+      "Cake": "12 Large Egg Whites\n1 cup Cake Flour\n1 cup Pecan Meal / Flour\n1 teaspoon Baking Powder\n1 teaspoon Cream of Tartar\nPinch Salt\n1 \u2153 cup Granulated Sugar\n1 teaspoon Vanilla Extract",
+      "DessertID": 16
+    },
+    {
+      "Frosting": "2 cups Heavy Whipping Cream\n3 tablespoon Confectioners / Icing / Powdered Sugar\n1 teaspoon Vanilla Extract",
+      "DessertID": 16
+    },
+    {
+      "Caramel": "1/2 cup butter\n1 1/2 cups packed brown sugar\n1/2 cup heavy cream\n1 teaspoon vanilla extract",
+      "DessertID": 16
+    },
+    {
+      "Garnish": "Chopped Pecans, Pecan Halves, etc",
+      "DessertID": 16
+    },
+    {
+      "": "2 cups (500 ml) unbleached all-purpose flour\n1/4 cup (60 ml) sugar\n2 teaspoon (10 ml) baking powder\n1/4 teaspoon (1 ml) salt\n1/4 cup (60 ml) unsalted butter, softened\n1 cup (250 ml) milk\n1/2 teaspoon (2.5 ml) vanilla extract\n1 can (540 ml/19 oz) maple syrup\n1 cup (250 ml) water",
+      "DessertID": 17
+    },
+    {
+      "Filling": "2 1/2 cups (425 g) Medjool dates, pitted and chopped (lightly packed)\n1 cup (250 ml) water\n2 tbsp (30 ml) lemon juice\n2 tbsp brown sugar\n1/2 tsp baking soda",
+      "DessertID": 18
+    },
+    {
+      "Crisp": "1 3/4 cups (175 g) quick-cooking oats\n1 cup (150 g) unbleached all-purpose flour\n3/4 cup (160 g) brown sugar\n1/4 tsp baking powder\n3/4 cup (170 g) semi-salted butter, softened",
+      "DessertID": 18
+    },
+    {
+      "Pastry crust": "1 1/2 cup all-purpose flour 163 grams\n1 tsp sugar\n1/2 tsp salt\n1/2 cup cold unsalted butter cubed (112 grams)\n\u00bc cup cold water",
+      "DessertID": 19
+    },
+    {
+      "Butter Tart filling": "1 cups brown sugar, packed (190 grams)\n1/2 cup golden corn syrup\n\u00bc cup salted butter, melted\n2 eggs\n1 teaspoon white vinegar (optional: it helps to cut the sweetness)\n1 teaspoon vanilla extract\nOptional: 1/2 cup raisins or pecans",
+      "DessertID": 19
+    },
+    {
+      "": "2 cups all-purpose flour\n1/2 cup sugar\nDash salt\n1 cup cold butter, cubed\n1 large egg yolk, room temperature\n1 tablespoon cold water\n1 teaspoon vanilla extract\n1/2 cup seedless strawberry jam\nConfectioners' sugar, for dusting",
+      "DessertID": 20
+    },
+    {
+      "Cake": "1 cup all-purpose flour\n1/2 cup almond flour\n3/4 cup unsalted butter, softened\n1 cup granulated sugar\n1 teaspoon baking powder\n1/2 teaspoon salt\n3 large eggs, room temperature\n1 teaspoon almond extract\n1/2 teaspoon vanilla extract\n1/3 cup milk, room temperature\nPink food coloring",
+      "DessertID": 21
+    },
+    {
+      "Decor": "1/3 cup apricot jam or preserves\n2 packages (6-8 ounces) marzipan\nConfectioners' sugar (to roll out the marzipan)",
+      "DessertID": 21
+    },
+    {
+      "Genoise": "60g unsalted butter, melted and cooled, plus extra for greasing\n4 large eggs, at room temperature\n120g caster sugar\n120g plain flour, sifted\n 1/2 tsp vanilla extract\n 1/2 tsp natural raspberry flavouring\npink food-colouring gel\nfinely grated zest of 1 small unwaxed lemon\nyellow food-colouring gel",
+      "DessertID": 22
+    },
+    {
+      "Italian meringue buttercream": "100g caster sugar\n1 large egg white\n85g unsalted butter, softened",
+      "DessertID": 22
+    },
+    {
+      "Fondant icing": "250g fondant icing sugar\npink food-colouring gel",
+      "DessertID": 22
+    },
+    {
+      "Tart": "1-3/4 cups all-purpose flour\n1-1/3 stick unsalted butter, cold and diced\n1 large egg yolk\n2 tablespoons granulated sugar\n2 tablespoons water, cold (plus additional, if needed)",
+      "DessertID": 23
+    },
+    {
+      "Filling": "2-3/4 cups granulated sugar\n1/2 cup water\n1/2 stick unsalted butter, diced (about 4 tablespoons)\n3 lemons, juice and zest (approximately 1/3 cup of lemon juice)\n1-1/2 cups fresh white bread crumbs\n3 large eggs, beaten",
+      "DessertID": 23
+    },
+    {
+      "Decoration": "2 tablespoons confectioners' sugar",
+      "DessertID": 23
+    },
+    {
+      "": "3-1/2 cups all-purpose flour\n1 cup sugar\n1-1/2 teaspoons baking powder\n1 teaspoon salt\n1/2 teaspoon baking soda\n1 cup cold butter, cubed\n3/4 cup 2% milk\n1 large egg, beaten\n1-1/4 cups dried currants or raisins",
+      "DessertID": 24
+    },
+    {
+      "Graham Cracker Crust": "1-1/2 cups crumbled graham crackers (about 12 graham crackers)\n1/2 cup butter, melted\n1/3 cup granulated sugar\n1/4 teaspoon salt",
+      "DessertID": 25
+    },
+    {
+      "Filling & Topping": "3 bananas, sliced 1/4 inch thick\n2 cups dulce de leche\n1-1/2 cups heavy whipping cream\n1-1/2 teaspoon instant espresso powder\n3 tablespoons confectioners' sugar\n1 teaspoon vanilla extract\n1 chocolate bar, to make chocolate shavings",
+      "DessertID": 25
+    },
+    {
+      "": "2 1/4 cups all-purpose flour\n1 teaspoon baking soda\n1 teaspoon salt\n1 cup (2 sticks) butter, softened\n3/4 cup granulated sugar\n3/4 cup packed brown sugar\n1 teaspoon vanilla extract\n2 large eggs\n2 cups (12-ounce package) NESTLE TOLL HOUSE Semi-Sweet Chocolate Morsels\n1 cup chopped nuts (Optional. If omitting, add 1 to 2 Tbsp. of all-purpose flour.)",
+      "DessertID": 26
+    },
+    {
+      "Frosting": "15 ounces semi-sweet chocolate, finely chopped",
+      "DessertID": 27
+    },
+    {
+      "": "1/4 cup milk",
+      "DessertID": 27
+    },
+    {
+      "": "1/4 cup milk\n1 egg\n1 tablespoon water\n 1/2 teaspoon vanilla extract\n1 tablespoon granulated sugar\n3/4 teaspoon baking powder\n1 pinch salt\n 1/2 cup all purpose flour\n4 tablespoons powdered sugar",
+      "DessertID": 28
+    },
+    {
+      "Crust": "1 1/2 cups finely crushed graham cracker crumbs, from about 12 whole graham crackers\n1/3 cup packed light brown sugar\n4 tablespoons unsalted butter, melted",
+      "DessertID": 29
+    },
+    {
+      "Filling": "Two 14-oz cans sweetened condensed milk\n1 cup plain Greek yogurt (2% or whole milk)\n1 tablespoon grated lime zest\n3/4 cup fresh lime juice",
+      "DessertID": 29
+    },
+    {
+      "Topping": "1 cup cold heavy cream\n2 tablespoons confectioners' sugar\n1 teaspoon grated lime zest\n8 to 10 thin lime slices",
+      "DessertID": 29
+    },
+    {
+      "": "For the chocolate glaze\n12 ounces semisweet chocolate, chopped\n1 tablespoon vegetable oil",
+      "DessertID": 30
+    },
+    {
+      "Cake": "3 cups (360g) cake flour (spoon & leveled)\n1 teaspoon baking soda\n2 Tablespoons (10g) unsweetened natural cocoa powder\n1/2 teaspoon salt\n1/2 cup (115g) unsalted butter, softened to room temperature\n2 cups (400g) granulated sugar\n1 cup (240ml) canola or vegetable oil\n4 large eggs, room temperature and separated\n1 Tablespoon pure vanilla extract\n1 teaspoon distilled white vinegar\nliquid or gel red food coloring\n1 cup (240ml) buttermilk, at room temperature",
+      "DessertID": 31
+    },
+    {
+      "Cream Cheese Frosting": "16 ounces (450g) full-fat block cream cheese, softened to room temperature\n3/4 cup (170g) unsalted butter, softened to room temperature\n5 and 1/2 cups (660g) confectioners' sugar\n1 and 1/2 teaspoons pure vanilla extract\npinch of salt, to taste",
+      "DessertID": 31
+    }
+  ]
+}

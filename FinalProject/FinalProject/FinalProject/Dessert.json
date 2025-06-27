@@ -1,0 +1,326 @@
+{
+  "Australia": [
+    {
+      "DessertID": 1,
+      "Dessert Name": "Lamington",
+      "Prep Time": "45 minutes",
+      "Cooking Time": "25 minutes",
+      "Serving Size": "12",
+      "Description": "An Australian cake made from squares of butter cake or sponge cake coated in an outer layer of chocolate sauce and rolled in desiccated coconut. The thin mixture is absorbed into the outside of the sponge cake and left to set, giving the cake a distinctive texture. A common variation has a layer of cream or strawberry jam between two lamington halves. Lamingtons are believed to be named after either Lord Lamington, who served as Governor of Queensland from 1896 to 1901, or his wife, Lady Lamington. Most stories attribute its creation to Lord Lamington's chef, the French-born Armand Galland, who was called upon at short notice to feed unexpected guests. Using only the limited ingredients available, Galland cut up some left-over French vanilla sponge cake baked the day before, dipped the slices in chocolate and set them in coconut. Impressed by Galland's creation, Lamington's guests were said to have later asked for the recipe. One account suggests that the lamington was first served in Toowoomba, when Lord Lamington took his entourage to Harlaxton House to escape the steamy heat of Brisbane, whereas other claims that it was created by Galland at Queensland's Government House in Brisbane during the busy period leading up to Federation in 1901. A further alternative claim is that Lord Lamington's cook, presumably Galland, accidentally dropped a block of sponge cake into a dish of chocolate. It was later discovered that desiccated coconut, sprinkled over the top, made the cakes more appealing.",
+      "Image": "Lamington.jpg",
+      "Country Flag": "Australia.jpg"
+    },
+    {
+      "DessertID": 2,
+      "Dessert Name": "Fairy Bread",
+      "Prep Time": "5 minutes",
+      "Cooking Time": "",
+      "Serving Size": "12",
+      "Description": "Traditional Fairy bread unifies three simple ingredients-triangularly sliced white bread slathered in butter and topped with rainbow sprinkles (known colloquially as \"hundreds and thousands\") Although people had been putting hundred and thousands (or nonpareils) on bread and butter for some time, the first known reference to this dish as Fairy Bread was in the Hobart Mercury in April 1929. Referring to a party for child inmates of the Consumptive Sanitorium, the article proclaimed that \"The children will start their party with fairy bread and butter and 100s and 1,000s, and cakes, tarts, and home-made cakes...\" A nostalgic childhood treat popular in Australia and New Zealand, on the birthday of Scottish author Robert Louis Stevenson, whom linguistic scholars believe first coined the term in his 1885 poem \"Fairy Bread\" in \"A Child's Garden of Verses.\"",
+      "Image": "Fairy Bread.jpg",
+      "Country Flag": "Australia.jpg"
+    },
+    {
+      "DessertID": 3,
+      "Dessert Name": "Damper",
+      "Prep Time": "10 minutes",
+      "Cooking Time": "30 minutes",
+      "Serving Size": "8",
+      "Description": "Damper is a thick homemade soda bread traditionally prepared by early European settlers in Australia. Damper was utilized by stockmen who travelled in remote areas for long periods, with only basic rations of flour, sugar, and tea, supplemented by whatever meat was available. It was also a basic provision of squatters. The basic ingredients of damper were flour, salt, and water. Baking soda or beer could be used for leavening. Damper was normally cooked in the ashes of the campfire. The ashes were flattened, and the damper was cooked there for ten minutes, often wrapped around a stick. Following this, it was covered with ashes and cooked for another 20 to 30 minutes until it sounded hollow when tapped. Alternatively, damper was cooked in a greased camp oven. Damper was eaten with dried or cooked meat or golden syrup. Damper is an iconic Australian dish. While considered quintessentially Australian, and synonymous with early European settlement and rural life there, bread making is such an ancient and widespread practice that this form of bread baking is not unique to colonial or pre-colonial Australia.",
+      "Image": "Damper.jpg",
+      "Country Flag": "Australia.jpg"
+    },
+    {
+      "DessertID": 4,
+      "Dessert Name": "Anzac Biscuits",
+      "Prep Time": "15 minutes",
+      "Cooking Time": "15 minutes",
+      "Serving Size": "16 - 18",
+      "Description": "The Anzac biscuit is a sweet biscuit, popular in Australia and New Zealand, made using rolled oats, flour, sugar, butter (or margarine), golden syrup, baking soda, boiling water, and (optionally) desiccated coconut. Anzac biscuits have long been associated with the Australian and New Zealand Army Corps (ANZAC) established in World War I. The earliest known recipe combining the words 'Anzac' and 'biscuit' is a recipe from 1916 for \"ANZAC GINGER BISCUITS\" which was published on June 4, 1916, in the Perth edition of The Sunday Times. However, this recipe contains no mention of oats present in modern Anzac biscuits. The first recipe for something called \"Anzac Biscuits\" appears in an Australian publication, the War Chest Cookery Book (Sydney, 1917), but this recipe was also for a different biscuit from what we know as the modern Anzac biscuit. The same publication, the War Chest Cookery Book (Sydney, 1917), also included the first two recipes for biscuits resembling modern Anzac biscuits, under the names of \"Rolled Oats Biscuits\" and just \"Biscuits\". The first recorded instance of the combination of the name 'Anzac biscuit' and the recipe now associated with it was found in Adelaide dating to \"either late 1919 or early 1920\". Another early recipe for the Anzac biscuit dates to 1921 in an Australian newspaper called The Argus. These early recipes did not contain desiccated coconut which is present in many modern Anzac biscuits. The first recipe for an Anzac biscuit containing the desiccated coconut is recorded to be from the city of Adelaide in 1924.",
+      "Image": "Anzac Biscuits.jpg",
+      "Country Flag": "Australia.jpg"
+    },
+    {
+      "DessertID": 5,
+      "Dessert Name": "Pavlova",
+      "Prep Time": "20 minutes",
+      "Cooking Time": "90 minutes",
+      "Serving Size": "8 - 10",
+      "Description": "Pavlova is a meringue-based dessert. In the early 20th century, it was named after the Russian ballerina Anna Pavlova. Taking the form of a cake-like circular block of baked meringue, pavlova has a crisp crust and soft, light inside. The confection is usually topped with fruit and whipped cream. The dessert is believed to have been created in honor of the dancer either during or after one of her tours to Australia and New Zealand in the 1920s. The early history of pavlova can be traced to Australia, where recipes for a very similar dish have been found dating back to 1906, though this dish was only called a 'cream cake' and did not yet bear the name 'pavlova'. A recipe for \"Strawberries Pavlova\" appeared in the New Zealand Herald on 11 November 1911, but this was a kind of ice block or sorbet. A 1922 book Australian home cookery by Emily Futter contained a recipe for \"Meringue with Fruit Filling\". This is the first known recipe for a food entirely resembling the modern pavlova, though not yet known by that name.",
+      "Image": "Pavlova.jpg",
+      "Country Flag": "Australia.jpg"
+    }
+  ],
+  "Belgium": [
+    {
+      "DessertID": 6,
+      "Dessert Name": "Gaufres",
+      "Prep Time": "15 minutes",
+      "Cooking Time": "32 minutes",
+      "Serving Size": "8",
+      "Description": "Belgian waffles are a variety of waffle with a lighter batter, larger squares, and deeper pockets than American waffles. Belgian waffles were originally leavened with yeast, but baking powder is now often used. They are often eaten as a breakfast food; toppings vary from whipped cream, confectioners' sugar, soft fruit, and chocolate spread to syrup and butter or margarine. They may also be served with vanilla ice cream and fresh fruit (such as strawberries) as a dessert. Originally showcased in 1958 at Expo 58 in Brussels, Belgian waffles were introduced to the United States by a Belgian named Walter Cleyman at the Century 21 Exposition in Seattle in 1962 and served with whipped cream and strawberries. The waffles were further popularized in the United States during the 1964 New York World's Fair at Flushing Meadows Park in Queens, New York City. These waffles were introduced by Maurice Vermersch of Brussels, Belgium.",
+      "Image": "Gaufres.jpg",
+      "Country Flag": "Belgium.png"
+    },
+    {
+      "DessertID": 7,
+      "Dessert Name": "Lacquements",
+      "Prep Time": "6 hours",
+      "Cooking Time": "3 minutes",
+      "Serving Size": "40",
+      "Description": "A lacquement is a culinary specialty from the region of Liege, although it was created by Desire Smidts at the Antwerp Fair, called Sinksenfoor (\"Sinksen\" is Pentecost in the Antwerpian dialect) where it is still eaten a lot. It is commonly eaten during the October fair in Liege. It is a thin wafer, made from wheat, cut in two horizontally, filled and coated with sugar candy syrup flavored with orange blossom. The inventor of Lacquemant is Desire Smidts, who first made it in 1903 and named it as a tribute to his former employer, Berthe Lacquemant",
+      "Image": "Lacquements.jpg",
+      "Country Flag": "Belgium.png"
+    },
+    {
+      "DessertID": 8,
+      "Dessert Name": "Rijstevlaai",
+      "Prep Time": "1 hour",
+      "Cooking Time": "30 minutes",
+      "Serving Size": "12",
+      "Description": "Rijstevlaai is a pie with a filling based on rice pudding. It is native to Verviers and popular around the wider region of Eastern Belgium, south-eastern Netherlands and the German region around Aachen. It is best served cold usually on Sundays, at birthdays, weddings, and retirement parties. Vlaai, or flat pies, were originally invented by Germanic tribes who used to spread out the dough over a hot stone and top it with honey or fruit juice in order to make it more flavorful. As time went by, the dough became thinner, and the toppings larger, resulting in numerous flat pies we know and love today.",
+      "Image": "Rijstevlaai.jpg",
+      "Country Flag": "Belgium.png"
+    },
+    {
+      "DessertID": 9,
+      "Dessert Name": "Aalsterse vlaai",
+      "Prep Time": "15 minutes",
+      "Cooking Time": "45 minutes",
+      "Serving Size": "4",
+      "Description": "Aalsterse vlaai is a centuries-old traditional regional dish from the region around Aalst. It is a pastry made with mastels, also known as 'ironed mastels' The vlaai is a kind of bread pudding that was originally baked to use up leftovers of bread and pastries such as gingerbread or gingerbread. Vlaai can be eaten as a cake but is also spread between sandwiches. Some recipes classify Aalsterse vlaai as 'East Flemish flan'. Aalsterse vlaai used to be made by housewives according to their own recipe to use up leftover food. This mainly happened during fair periods. Families who did not have an oven at home took their batter in baking tins to the bakery, where they were baked. Over time, the bakers also started baking the pies themselves in stone bowls that were lent out and had to be returned once the pie was gone.",
+      "Image": "Aalsterse vlaai.jpg",
+      "Country Flag": "Belgium.png"
+    }
+  ],
+  "Brazil": [
+    {
+      "DessertID": 10,
+      "Dessert Name": "Bolo de rolo",
+      "Prep Time": "56 minutes",
+      "Cooking Time": "4 minutes",
+      "Serving Size": "16",
+      "Description": "Bolo de rolo or rollcake is a typical Brazilian dessert, from Pernambuco state. The cake batter is made with flour, eggs, butter, and sugar. This dough is wrapped with a layer of guava paste, giving the appearance of a swiss roll with much thinner layers. Its preparation is much more complicated. It incorporates many delicate and thin sponge layers which are connected to form a giant sheet, spread with a layer of sweet guava jam, then rolled into a log. It is usually served sliced, to showcase the number of meticulously created jelly spirals. To balance the sweetness, slices of bolo de rolo are often served with a dollop of unsweetened whipped cream. It is recognized as a national dish in Brazilian law. Its origin lies in the adaptation of Portuguese cake colchao de noiva (bride's mattress), a kind of sponge cake rolled with a filling of nuts. Upon arriving in Brazil, the Portuguese cooks changed the filling to guava fruit, which is plentiful in northeastern Brazil, cooked with sugar, which was abundant since it was made in the factories of the region. Even today it is common to sprinkle the bolo de rolo with sugar in its outer shell, snapping up the presentation of the dessert.",
+      "Image": "Bolo de rolo.jpg",
+      "Country Flag": "Brazil.jpg"
+    },
+    {
+      "DessertID": 11,
+      "Dessert Name": "P\u00e3o de mel",
+      "Prep Time": "30 minutes",
+      "Cooking Time": "15 minutes",
+      "Serving Size": "24",
+      "Description": "P\u00e3o de Mel is a popular Brazilian treat consisting of two layers of spiced chocolate and honey cake sandwiching a layer of filling (usually dulce de leche), often covered with chocolate. Despite the name, you don't really taste honey in these treats. The chocolate and spices are pronounced, almost like in a chocolate gingerbread cookie! The dulce de leche and the chocolate coating take these cakes to the next level, making them rich, indulgent, and absolutely delicious. The origins of these cakes are unknown, but there are two theories that make sense. The first claims that the Brazilian honey cakes are a spinoff of the Russian Pryaniki, a baked good made primarily from flour and honey. As the recipe passed among generations, it changed slightly according to the region, sometimes including other ingredients, like spices. The second theory believes that the p\u00e3o de mel originated in Europe, when Europeans discovered that covering spiced cakes in chocolate would keep them flavorful and moist for longer.",
+      "Image": "Pao de mel.jpg",
+      "Country Flag": "Brazil.jpg"
+    },
+    {
+      "DessertID": 12,
+      "Dessert Name": "Beijinho de Coco",
+      "Prep Time": "2 hours 5 minutes",
+      "Cooking Time": "10 minutes",
+      "Serving Size": "16",
+      "Description": "Beijinho de Coco or Brazilian coconut balls translates to coconut kiss. It's a typical Brazilian birthday party candy prepared with condensed milk, grated desiccated coconut, rolled over caster sugar, or grated coconut and frequently topped with a clove. It is believed that Beijinho de Coco was originally called \"Nun's kiss\" and formerly made with almonds, water, and sugar. The sweet treats can also be used as a filling for dried plums, in which case the dessert is called olho-de-sogra, literally translated to mother-in-law's eyes.",
+      "Image": "Beijinho de Coco.jpg",
+      "Country Flag": "Brazil.jpg"
+    }
+  ],
+  "Cambodia": [
+    {
+      "DessertID": 13,
+      "Dessert Name": "Sankhya Lapov",
+      "Prep Time": "1 hour",
+      "Cooking Time": "1 hour",
+      "Serving Size": "4 - 6",
+      "Description": "Sankhya Lapov or pumpkin custard involves steaming custard inside a squash and slicing like a cake to serve, is by far the most popular application. When cut, the yellow custard nestled within the orange flesh makes for a beautiful presentation. The squash itself becomes soft and sweet, and the skin is edible. While you'll find the dish on restaurant menus, home cooks also prepare it for special occasions. It is best cooked one day before serving and can be refrigerated for two days. While we reserve the term \"pumpkin\" for one specific type of squash associated with pie and Halloween, other countries use the word more broadly. In Southeast Asia-including Cambodia, where this custard originates-\"pumpkin\" usually refers to kabocha, a disk-shaped and dark green squash with a vibrant yellow interior. In the 16th century, Portuguese traders first brought the squash from the Americas to a trading post in Cambodia. From there, it made its way to Japan, where the word \"Cambodia\" and the Portuguese word for pumpkin, abobora, eventually combined into \"kabocha.\" Today, kabocha is most closely associated with Japan, where it is a staple ingredient; you might see it labeled \"Japanese pumpkin\" at your grocery store. But Cambodian cooks also use kabocha in a variety of dishes, including soups and stir fries.",
+      "Image": "Sankhya Lapov.jpg",
+      "Country Flag": "Cambodia.png"
+    },
+    {
+      "DessertID": 14,
+      "Dessert Name": "Num Ansom Chek",
+      "Prep Time": "6 hours 30 minutes",
+      "Cooking Time": "1 hour",
+      "Serving Size": "4 - 6",
+      "Description": "Num Ansom Chek is a traditional Khmer sticky rice cake. It is similar to Vietnamese banh tet. It is described as a cylinder-shaped cake made from glutinous rice that can either be filled with sugar bananas, jackfruits, or pork. In addition to steaming num ansom chek can also be fried or grilled depending on the occasion. When Cambodia's temple-building traditions died out, so too did the architectural manifestations of Shiva Lingam and Yoni. Nonetheless, the concept of Mea Ba, or the respect of mother and father, persisted, and is still present in Khmer gastronomy. Thus, these two cakes are indispensable components of the Khmer traditional wedding. Num ansom is associated in Khmer culture with a banana leaf-wrapped steamed counterpart, the num kom. The cylinder shape of the num ansom represents a phallus, symbolizing Shiva, the masculine principle of God, while the pyramid shape of the num kom symbolizes the Uma, his consort. In popular Khmer culture, the cakes represent the two heads of the household. In 2015, the provocative pop star Neay Koeun released a comedic song called 'Darling! You Throw My Num Ansom Away and Go Eat Baguette' in which the phallic attribute of the food was a suggestive dominant theme. During Angkor Sankranta event at Siem Reap in April back in 2015, Cambodia broke the Guinness World Record of the Largest Sticky Rice Cake. The cake weighted 4 tons (4,040 kg). It took about 100 Khmer chefs and almost two days to cook and was approved by the Guinness World Records as the biggest cake in the world on the 13th April 2015 during the Khmer New Year. Political commentators were critical of this world record seeing in it a political stunt or a \"recipe for youth appeal\", as the sticky rice cake was produced after long street protests and a parliamentary boycott over the results of the 2013 Cambodian general election.",
+      "Image": "Num Ansom Chek.jpg",
+      "Country Flag": "Cambodia.png"
+    }
+  ],
+  "Canada": [
+    {
+      "DessertID": 15,
+      "Dessert Name": "Pouding ch\u00f4meur \u00e0 l'\u00e9rable",
+      "Prep Time": "15 minutes",
+      "Cooking Time": "45 minutes",
+      "Serving Size": "10",
+      "Description": "Pouding ch\u00f4meur or poor man's pudding is a dessert that was created during the early years of the Great Depression in Quebec, Canada. Today, it is casually served as a regional dessert, perhaps being a bit more popular during the saison des sucres, when maple sap is collected and processed and is usually part of the offerings during a meal at a sugar shack, but it is not specifically a maple dessert. The pouding ch\u00f4meur is a basic cake batter onto which a hot syrup or caramel is poured before baking. The cake then rises through the liquid which settles at the bottom of the pan, mixing with the batter and creating a distinct layer at the bottom of the dish. The syrup or caramel can be made from brown sugar, white sugar, maple syrup or a combination of these. During the worst of the Depression, stale bread was used in lieu of cake batter.",
+      "Image": "Pouding chomeur a lerable.jpg",
+      "Country Flag": "Canada.jpg"
+    },
+    {
+      "DessertID": 16,
+      "Dessert Name": "Schmoo torte",
+      "Prep Time": "1 hour",
+      "Cooking Time": "42 minutes",
+      "Serving Size": "10",
+      "Description": "Schmoo torte is a Canadian dessert. Although it is relatively popular and well-known nationwide, it is most famous in Western Canada, especially Manitoba. It is a torte with layered whipped cream, caramel, and nuts, commonly made using angel food or sponge cake. The schmoo torte was first invented in 1948 by a Winnipeg mother, Dora Zaslavsky, for her son Murray's Bar Mitzvah in Winnipeg, Manitoba. Zaslavsky was a Russian-Jewish immigrant who arrived at Canada in 1914. She started introducing her recipes to Winnipeg via a catering business to support her family financially when her husband became ill. Zaslavsky's catering business eventually expanded across North America. Her schmoo torte became a favourite of singer Harry Belafonte. Murray's daughter Shannon Aceman stated in an interview that her grandmother's schmoo torte \"was basically a mix of about three or four of her other best-known recipes for cakes with the rum torte.\" Jewish food historian Kat Romanow told CTV News Winnipeg that schmoo is reminiscent of a central-European dessert called nusstorte. Romanow told CTV News: \"In many cases, the dishes that Ashkenazi Jews brought with them to Canada came to be iconic dishes of their new homes. \"How the schmoo got its name is unknown, however, some claim it comes from the name of the comic book creatures from Al Capp's Li'l Abner.",
+      "Image": "Schmoo torte.jpg",
+      "Country Flag": "Canada.jpg"
+    },
+    {
+      "DessertID": 17,
+      "Dessert Name": "Grands-p\u00e8res",
+      "Prep Time": "25 minutes",
+      "Cooking Time": "20 minutes",
+      "Serving Size": "12",
+      "Description": "Grand-p\u00e8res is also used to describe this dish in some regions of Quebec like Beauce. This pastry is commonly served during \"le temps des sucres\" in sugar shacks. Grand-p\u00e8res are cakes which are more or less in the shape of a ball and that created out of dough made from flour, baking powder, butter, milk and sugar. Grand-p\u00e8res must be put in boiling maple syrup so that they are infused with its flavor. They are served with the boiled maple syrup and often with ice cream. Brown sugar can sometimes replace the maple syrup and vanilla can sometimes be added. This dessert is said to be of Acadian origin and that its current name dates back from when it arrived in Quebec. The name \"grand-p\u00e8re\" is assumed to have been given to this dish either because grandfathers could easily eat this dish despite having lost their teeth, because the ball resembled an elderly face or because the dish was prepared by grandfathers who were relegated the easy task of stirring maple syrup in the cauldron.",
+      "Image": "Grands-peres.jpeg",
+      "Country Flag": "Canada.jpg"
+    },
+    {
+      "DessertID": 18,
+      "Dessert Name": "Date square",
+      "Prep Time": "20 minutes",
+      "Cooking Time": "1 hour 5 minutes",
+      "Serving Size": "9 - 16",
+      "Description": "A date square is a Canadian dessert or bar cookie made of cooked dates with an oatmeal crumb topping. In Ohio it is known as matrimonial cake. In Eastern Canada it can also be known as date crumbles. It is often found in coffee shops as a sweet snack food. Sometimes nuts are added to the base layer or crumb topping, or other alterations. There can also be candied peel added to the date stuffing for a contrasting texture. The date square is known as a traditional dish of Newfoundland, Canada.",
+      "Image": "Date square.jpg",
+      "Country Flag": "Canada.jpg"
+    },
+    {
+      "DessertID": 19,
+      "Dessert Name": "Butter tart",
+      "Prep Time": "25 minutes",
+      "Cooking Time": "20 minutes",
+      "Serving Size": "12",
+      "Description": "A butter tart (French: tarte au beurre) is a type of small pastry tart highly regarded in Canadian cuisine. The sweet tart consists of a filling of butter, sugar, syrup, and egg, baked in a pastry shell until the filling is semi-solid with a crunchy top. The butter tart should not be confused with butter pie (a savory pie from the Preston area of Lancashire, England) or with bread-and-butter pudding. Recipes for the butter tart vary according to the families baking them. Because of this, the appearance, and physical characteristics of the butter tart - the firmness of its pastry, or the consistency of its filling - also vary. Traditionally, the English Canadian tart consists of butter, sugar, and eggs in a pastry shell, similar to the French-Canadian sugar pie, or the base of the U.S. pecan pie without the nut topping. The butter tart is different from the sugar pie given the lack of flour in the filling. The butter tart is different from pecan pie in that it has a \"runnier\" filling due to the omission of corn starch. Often raisins, walnuts, or pecans are added to the traditional butter tart, although the acceptability of such additions is a matter of national debate. As an iconic Canadian food and one of the most popular desserts in the country, the raisin-or-no-raisin question can provoke polarizing debate. More exotic flavors are also produced by some bakers. Examples such as maple, bacon, pumpkin, chili, and salted caramel cardamom flavors have been made for competitions. The earliest published Canadian recipe is from Barrie, Ontario, dating back to 1900 and can be found in The Women's Auxiliary of the Royal Victoria Hospital Cookbook, to which a Mrs. Mary Ethel MacLeod submitted the recipe for a butter tart filling. The original cookbook and recipe are housed at the Simcoe County Archives. Another early publication of a butter tart recipe was found in a 1915 pie cookbook. The food was an integral part of early Canadian cuisine and often viewed as a source of pride.",
+      "Image": "Butter tart.jpg",
+      "Country Flag": "Canada.jpg"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "DessertID": 20,
+      "Dessert Name": "Jammie Dodgers",
+      "Prep Time": "20 minutes",
+      "Cooking Time": "15 minutes",
+      "Serving Size": "12",
+      "Description": "Jammie Dodgers are a popular British biscuit, made from shortcake with a raspberry or strawberry flavored jam filling. Introduced in 1960, they are currently produced by Burton's Biscuit Company at its factory in Llantarnam. In 2009, Jammie Dodgers were the most popular children's sweet biscuit brand in the United Kingdom, with 40% of the year's sales consumed by adults. Named after the character Roger the Dodger from The Beano comics, Jammie Dodgers have been produced in the United Kingdom for over 60 years, originally by Burton's Foods. In 2011, the brand was re-launched under the \"Dodgers\" umbrella with two new products: Toffee and Choccie. Jammie Dodgers are a type of linzer biscuit, which is a biscuit-size version of a linzer torte, and they are often associated with the Christmas season in other parts of the world. One commercial example is Pepperidge Farm's seasonally available linzer raspberry cookie in the United States. In New Zealand, linzer cookies are called Shrewsbury biscuits; one example is the Cookie Bear Shrewsbury biscuit from Griffin's Foods. The term Shrewsbury biscuit refers to a different product elsewhere, however. Linzer cookies are also sold as raspberry shortbread cookies.",
+      "Image": "Jammie Dodgers.jpg",
+      "Country Flag": "United Kingdom.jpg"
+    },
+    {
+      "DessertID": 21,
+      "Dessert Name": "Battenberg Cake",
+      "Prep Time": "20 minutes",
+      "Cooking Time": "35 minutes",
+      "Serving Size": "6",
+      "Description": "Battenberg is a light sponge cake with different sections held together with jam. The cake is covered in marzipan and, when cut in cross section, displays a distinctive two-by-two check pattern alternately colored pink and yellow. The large, checkered patterns on emergency vehicles in the UK are officially referred to as Battenburg markings because of their resemblance to the cake. Charles Nevin wrote in The Independent: \"Battenberg cake is exemplarily British. The first cake was baked in 1884 to celebrate Prince Louis of Battenberg marrying Princess Victoria, Queen Victoria's granddaughter, and Prince Philip's grandmother.\" Early Battenbergs had as many as 25 squares, and food historian Ivan Day states the simplified four-paneled cake occurred when large industrial bakers such as Lyons began producing it. While the cake originates in England, its exact origins are unclear, with early recipes also using the alternative names \"Domino Cake\" (recipe by Agnes Bertha Marshall, 1898), \"Neapolitan Roll\" (recipe by Robert Wells, 1898), or \"Church Window Cake\". The cake was purportedly named in honor of the marriage of Princess Victoria, a granddaughter of Queen Victoria, to Prince Louis of Battenberg in 1884. The name refers to the German town of Battenberg, Hesse, which was the seat of an aristocratic family that died out in the early Middle Ages and whose title was transferred in 1851 to Countess Julia Hauke on behalf of her marriage to Prince Alexander of Hesse and by Rhine; then first Countess of Battenberg, afterwards Princess of Battenberg, known in Britain since 1917 as Mountbatten. Food historian Ivan Day refuted the idea that four panels is reference to four princes or houses as older recipes show higher numbers of panels (Day could neither confirm nor deny name origin in the royal wedding via contemporary sources), and states the simplification of the four-paneled cake occurred when \"large industrial bakers such as Lyons\" got in on the battenberg game - \"I suppose a four-panel battenburg [a common 19th-century spelling] is much easier to make on a production line\". According to The Oxford Companion to Food, the name \"Battenberg cake\" first appeared in print in 1903. However, a \"Battenburg cake\" appeared in: Frederick Vine, Saleable Shop Goods for Counter-Tray and Window... (London, England: Office of the Baker and Confectioner, 1898).",
+      "Image": "Battenberg Cake.png",
+      "Country Flag": "United Kingdom.jpg"
+    },
+    {
+      "DessertID": 22,
+      "Dessert Name": "Angel cake",
+      "Prep Time": "1 hour 15 minutes",
+      "Cooking Time": "15 minutes",
+      "Serving Size": "6",
+      "Description": "Angel cake is a type of layer cake that originated in the United Kingdom, and first became popular in the late 19th century. Made with butter, caster sugar, eggs, vanilla extract, self-rising flour, baking powder, and red and yellow food coloring, it consists of two or three layers of sweet butter cake which are often colored white, pink and yellow. It is traditionally iced with a thin layer of white icing. To serve, long bars or small rectangular slices are usually cut. The largest recorded Angel cake was 1 meter in length and 50 centimeters in width, which was baked in the English town of Bakewell.",
+      "Image": "Angel cake.jpeg",
+      "Country Flag": "United Kingdom.jpg"
+    },
+    {
+      "DessertID": 23,
+      "Dessert Name": "Treacle Tart",
+      "Prep Time": "1 hour",
+      "Cooking Time": "55 minutes",
+      "Serving Size": "12",
+      "Description": "Treacle tart is a traditional British dessert. The earliest known recipe for the dessert is from English author Mary Jewry in her cookbooks from the late 19th century. It is prepared using short crust pastry, with a thick filling made of golden syrup (also known as light treacle), breadcrumbs, and lemon juice or zest. The tart is normally served hot or warm with a scoop of clotted cream, ordinary cream, ice cream, or custard. Some modern recipes add cream, eggs, or both in order to create a softer filling. Treacle bread is a homemade bread popular in Ireland and is similar to soda bread but with the addition of treacle. In the Harry Potter book series, Harry's favorite food is treacle tart, a dessert often found at the Hogwarts feasts.",
+      "Image": "Treacle Tart.jpg",
+      "Country Flag": "United Kingdom.jpg"
+    },
+    {
+      "DessertID": 24,
+      "Dessert Name": "Welsh Cakes",
+      "Prep Time": "20 minutes",
+      "Cooking Time": "5 minutes",
+      "Serving Size": "4",
+      "Description": "Welsh Cakes originate from the country of Wales in Great Britain. The cakes are a cross between a cookie, a scone, and a pancake but they are truly unlike any of these things when it comes to taste and texture. They are the size of chubby cookie, made from ingredients similar to a scone, but they are cooked like a pancake on a griddle, they are not baked. Sweet but not overly so, Welsh Cakes are an example of a unique and traditional food that reflects the resourceful, wholesome, and practical nature of the Welsh people. Made from simple pantry items like flour, sugar, milk and butter, Welsh Cakes are considered a special treat since they take a great deal of time and effort to make. Being griddled, they pretty much must be made by hand, and therefore there are very few commercial makers of these cakes in the world. Traditionally they were cooked over a hot bakestone, but iron griddles were later used and are now the predominant method used to cook them. They have gone by a few different names since their inception including their Welsh language names \"cage bach\" or \"picau ar y maen\" but also, they are known as \"Griddle Cakes\", \"Welsh Tea Cakes\" and \"Welsh Miner Cakes\".",
+      "Image": "Welsh Cakes.jpg",
+      "Country Flag": "United Kingdom.jpg"
+    },
+    {
+      "DessertID": 25,
+      "Dessert Name": "Banoffee Pie",
+      "Prep Time": "2 hours 15 minutes",
+      "Cooking Time": "15 minutes",
+      "Serving Size": "12",
+      "Description": "Banoffee pie is a British dessert pie made from bananas, whipped cream, and a thick caramel sauce (made from boiled condensed milk, or dulce de leche), combined either on a buttery biscuit base or one made from crumbled biscuits and butter. Some versions of the recipe also include chocolate, coffee or both. Its name, sometimes spelled \"banoffi\", is a portmanteau combining the words \"banana\" and \"toffee\". Credit for the pie's invention is claimed by Nigel Mackenzie and Ian Dowding, the owner and chef, respectively, of The Hungry Monk Restaurant in Jevington, East Sussex, England (now closed). They claim to have developed the dessert in 1971 by amending an unreliable American recipe for \"Blum's Coffee Toffee Pie\" with a soft toffee made by boiling an unopened can of condensed milk for several hours. After trying various changes including the addition of apple or mandarin orange, Mackenzie suggested banana and Dowding later said that \"straight away we knew we had got it right\". Mackenzie suggested the name \"Banoffi Pie\", and the dish proved so popular with their customers that they \"couldn't take it off\" the menu. The recipe was published in The Deeper Secrets of the Hungry Monk in 1974 and reprinted in the 1997 cookbook In Heaven with The Hungry Monk. Dowding has stated that his \"pet hates are biscuit crumb bases and that horrible cream in aerosols\". It was Margaret Thatcher's favorite food to cook. The recipe was adopted by many other restaurants throughout the world. In 1984, a number of supermarkets began selling it as an American pie, leading Nigel Mackenzie to offer a £10,000 prize to anyone who could disprove their claim to be the English inventors. The word \"Banoffee\" entered the English language and became used to describe any food or product that tastes or smells of both banana and toffee.",
+      "Image": "Banoffee Pie.jpg",
+      "Country Flag": "United Kingdom.jpg"
+    }
+  ],
+  "United States": [
+    {
+      "DessertID": 26,
+      "Dessert Name": "Chocolate Chip Cookie",
+      "Prep Time": "15 minutes",
+      "Cooking Time": "9 minutes",
+      "Serving Size": "60",
+      "Description": "A chocolate chip cookie is a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient. Chocolate chip cookies originated in the United States around 1938, when Ruth Graves Wakefield chopped up a Nestle semi-sweet chocolate bar and added the chopped chocolate to a cookie recipe. Generally, the recipe starts with a dough composed of flour, butter, both brown and white sugar, semi-sweet chocolate chips, eggs, and vanilla. Variations on the recipe may add other types of chocolate, as well as additional ingredients such as nuts or oatmeal. There are also vegan versions with the necessary ingredient substitutions, such as vegan chocolate chips, vegan margarine, and egg substitutes. A chocolate chocolate chip cookie uses a dough flavored with chocolate or cocoa powder, before chocolate chips are mixed in. These variations of the recipe are also referred to as 'double' or 'triple' chocolate chip cookies, depending on the combination of dough and chocolate types. The chocolate chip cookie was invented by American chefs Ruth Graves Wakefield and Sue Brides in 1938. They invented the recipe during the period when she owned the Toll House Inn, in Whitman, Massachusetts. In this era, the Toll House Inn was a popular restaurant that featured home cooking. A myth holds that she accidentally developed the cookie, and that she expected the chocolate chunks would melt, making chocolate cookies. That is not the case; Wakefield stated that she deliberately invented the cookie. She said, \"We had been serving a thin butterscotch nut cookie with ice cream. Everybody seemed to love it, but I was trying to give them something different. So, I came up with Toll House cookie.\" She added chopped up bits from a Nestle semi-sweet chocolate bar into a cookie. The original recipe in Toll House Tried and True Recipes is called \"Toll House Chocolate Crunch Cookies\". Wakefield gave Nestle the recipe for her cookies and was paid with a lifetime supply of chocolate from the company. Wakefield's cookbook, Toll House Tried and True Recipes, was first published in 1936 by M. Barrows & Company, New York. The 1938 edition of the cookbook was the first to include the recipe \"Toll House Chocolate Crunch Cookie\" which rapidly became a favorite cookie in American homes. During World War II, soldiers from Massachusetts who were stationed overseas shared the cookies they received in care packages from home with soldiers from other parts of the United States. Hundreds of soldiers wrote home asking their families to send them Toll House cookies, and Wakefield received letters from around the world requesting her recipe, helping spread their popularity beyond the east coast. Chocolate chip cookies were first sold in the UK in 1956 by Maryland Cookies.",
+      "Image": "Chocolate Chip Cookie.jfif",
+      "Country Flag": "United States.jpg"
+    },
+    {
+      "DessertID": 27,
+      "Dessert Name": "Devil's food cake",
+      "Prep Time": "2 hours 15 minutes",
+      "Cooking Time": "1 hour 45 minutes",
+      "Serving Size": "10",
+      "Description": "Devil's Food Cake is also known as Red Velvet Cake, Red Devils Cake, Waldorf Astoria Cake, and $100 Dollar Cake. A beautiful mild chocolate flavor cake that is startlingly red. The cake is traditionally complemented with a thick white frosting with different regions of the country using different types of frosting. The cake gets this bright red color from the large amount of red food dye used in the preparation. A light-textured chocolate layer-type cake with a deep reddish-brown color. Devil's food cake is usually thought of in terms of dark chocolate, but originally it was red. Today cooks, using modern processed cocoa, sometimes add a touch of red food coloring to bring back the authentic color.  This cake is particularly popular in New Orleans. Devil's food cake was the favorite dessert of the early 1900s. In 1902, the recipe first appeared in an American cookbook called Mrs. Rorer's New Cookbook by Sarah Tyson Rorer. By 1913, recipes began appearing in cookbooks across America. The definition of deviled came from the term food that is dark, rich, chocolate, spicily piquant or stimulating it is \"deviled\".  The term \"deviled\" for spicy foods dates back to the 18th century. Deviled dishes were popular throughout the 19th and into the 20th centuries, especially for seafood dishes.",
+      "Image": "Devil's food cake.jpg",
+      "Country Flag": "United States.jpg"
+    },
+    {
+      "DessertID": 28,
+      "Dessert Name": "Funnel cake",
+      "Prep Time": "5 minutes",
+      "Cooking Time": "4 minutes",
+      "Serving Size": "2",
+      "Description": "Funnel Cake is a regional sweet food popular in North America, found mainly at carnivals and amusement parks. It is made by deep-frying batter. The concept of the funnel cake dates back to the early medieval Persian and Arab world as zalabiyeh, where similar yeast-risen dishes were first prepared, and later spread to Europe. Pennsylvania Dutch immigrants brought the yeast dish, known as drechderkuche, to America, and around 1879, they developed the baking powder version along with its new name, funnel cake. In the US, funnel cakes were originally associated with Pennsylvania Dutch Country. It is one of the first North American fried foods, which is associated with the Pennsylvania Dutch, German immigrants who came to Pennsylvania in the 17th and 18th centuries. Today, it is a staple dish that can be found at amusement parks and fairs all over the country. The name \"funnel\" later came from the technique used to make the cakes, in which the pancake-like batter is poured into hot oil through a funnel.",
+      "Image": "Funnel cake.jpg",
+      "Country Flag": "United States.jpg"
+    },
+    {
+      "DessertID": 29,
+      "Dessert Name": "Key Lime Pie",
+      "Prep Time": "20 minutes",
+      "Cooking Time": "25 minutes",
+      "Serving Size": "10",
+      "Description": "Key lime pie is an American dessert pie. It is made of lime, egg yolks, and sweetened condensed milk. It may be served with no topping, topped with a meringue topping made from egg whites, or with whipped cream; it may be cooked in a pie crust, graham cracker crust, or no crust. The dish is named after the small Key limes, which are more aromatic than the common Persian limes, and which have yellow, not green, juice. The filling in a key lime pie is also yellow, largely because of the egg yolks. The filling is made similarly to a Magic Lemon cream pie, by simply mixing the ingredients without cooking: the proteins of the egg yolks and condensed milk and the acidic lime juice curdle, thickening the mixture without baking. Today, key lime pies are usually baked to pasteurize the eggs and thicken the filling further. Key lime pie is probably derived from the \"Magic Lemon Cream Pie\" published in a promotional brochure by Borden, a producer of condensed milk, in 1931. The recipe is attributed to Borden's fictional spokesperson, Jane Ellison, and includes condensed milk, lemon juice and rind, and egg yolks. It is covered with meringue, baked, and served cold. According to the pastry chef Stella Parks, users of the recipe altered it with local ingredients; she describes it as \"a stunning reminder of how deeply America's traditions are shaped by advertising\". A \"Tropical Lime Chiffon Pie\", using condensed milk and egg yolks, is documented in a 1933 Miami newspaper article. An \"icebox lime pie\", was mentioned as a specialty of the Florida Keys in 1935 and a recipe under the name \"Key Lime Pie\" was published in 1940. No earlier solid sources are known, despite appeals to the public. A 1927 Key West Women's Club cookbook does not mention the recipe. A 1926 restaurant menu includes \"lime pie\", but it is unclear what it was. Various accounts claim that it was known earlier, but none were recorded before 1933. A widely reported story claims that William Curry's cook Aunt Sally invented it in the late 19th century. But there is no evidence for this, and the oldest version of this story dates to only 1995, in promotional materials for a Bed and Breakfast in Curry's former house. It was in the 1950s that Key lime pie was promoted as Florida's \"most famous treat\" and in 1987 as \"the greatest of all regional American desserts.\"",
+      "Image": "Key Lime Pie.jpg",
+      "Country Flag": "United States.jpg"
+    },
+    {
+      "DessertID": 30,
+      "Dessert Name": "Moon Pie",
+      "Prep Time": "2 hours 55 minutes",
+      "Cooking Time": "22 minutes",
+      "Serving Size": "15",
+      "Description": "A Moon Pie is an American snack, popular across much of the United States, which consists of two round graham cookies, with marshmallow filling in the center, dipped in a flavored coating. The snack is often associated with the cuisine of the American South, where they are traditionally accompanied by an RC Cola. Today, Moon Pies are made by Chattanooga Bakery, Inc., in Chattanooga, Tennessee. The traditional pie is approximately 4 inches (10 cm) in diameter. A smaller version, called a Mini Moon Pie, are approximately half the size, and a double-decker moon pie of the traditional diameter features a third cookie and additional layer of marshmallow. The five main flavors are chocolate, vanilla, banana, strawberry, and salted caramel. Orange and coconut make seasonal appearances during the Mardi Gras parading season. According to Chattanooga Bakery, they came up with the idea for moon pies when a traveling salesman for the company asked a Kentucky coal miner what kind of snack he would like to eat, and the miner requested something with graham cracker and marshmallow. Popular folklore, repeated and encouraged by the Chattanooga Bakery itself, states the miner then asked that the snack be \"as big as the moon\", which inspired the name \"moon pie\". The company celebrated its centennial with a \"My Favorite Moon Pie Memory\" contest. The grand prize was a 100-year supply of moon pies. A military veteran, Christopher Priest from Rockford, Michigan, won the contest. The company also took a wrapped Winnebago across the country in the fall, thanking its top customers and attending various sporting events and festivals. In September 2017, as part of its centennial, Moon Pie returned to its original recipe, replacing high-fructose corn syrup with sugar, and removing preservatives and artificial colors and flavors. In 2020, the company released pumpkin spice double-decker Moon Pie as well as mini-Moon Pies. The minis appear on their website and the double-deckers are available at Bass Pro Shops and Cabela's.",
+      "Image": "Moon Pie.jpg",
+      "Country Flag": "United States.jpg"
+    },
+    {
+      "DessertID": 31,
+      "Dessert Name": "Red Velvet Cake",
+      "Prep Time": "30 minutes",
+      "Cooking Time": "30 minutes",
+      "Serving Size": "12",
+      "Description": "Red velvet cake is traditionally a red, red-brown, crimson, or scarlet-colored chocolate layer cake, layered with ermine icing. Traditional recipes do not use food coloring, with the red color due to non-Dutched, anthocyanin-rich cocoa. Common ingredients include buttermilk, butter, cocoa, vinegar, and flour. Beet juice or red food coloring may be used for the color. Velvet cake is thought to have originated in Maryland in the early 20th century. In the 19th century, \"velvet\" cake, a soft and velvety crumb cake, came to be served as a fancy dessert, in contrast to what had been the more common, coarser-crumbed cake. Around the turn of the 20th century, devil's food cake was introduced, which is how some believe that red velvet cake came about. The key difference between the two cakes is that devil's food cake uses chocolate and red velvet cake uses cocoa. When foods were rationed in the US during World War II, bakers used boiled beet juices to enhance the color of their cakes. Beet was and is used in some recipes as a filler or to retain moisture. Adams Extract is credited with bringing the red velvet cake to kitchens across America during the Great Depression era, by being one of the first to sell red food coloring and other flavor extracts with the use of point-of-sale posters and tear-off recipe cards. The cake and its original recipe are well known in the United States from New York City's famous Waldorf-Astoria Hotel, which has been dubbed the confection Waldorf-Astoria cake. However, it is widely considered a Southern recipe. Traditionally, red velvet cake is iced with a French-style butter ermine icing (also called roux icing though, while containing butter and flour, it is not made from a roux), which is very light and fluffy, but time-consuming to prepare. Cream cheese frosting and buttercream frosting are variations that have increased in popularity. In Canada, the cake was a well-known dessert in the restaurants and bakeries of the Eaton's department store chain in the 1940s and 1950s. Promoted as an exclusive Eaton's recipe, with employees who knew the recipe sworn to silence, many mistakenly believed the cake was the invention of the department store matriarch, Lady Eaton. In recent years, red velvet cake and red velvet cupcakes have become increasingly popular in the US and many European countries, especially around Christmas and more recently Valentine's Day. A resurgence in the popularity of this cake is attributed by some to the 1989 film Steel Magnolias, which included a red velvet groom's cake made in the shape of an armadillo. Magnolia Bakery in Manhattan has served it since its opening in 1996, as did restaurants known for their Southern cooking like Amy Ruth's in Harlem, which opened in 1998. In 2000, Cake Man Raven opened one of the first bakeries devoted to the cake in Brooklyn.",
+      "Image": "Red Velvet Cake.jpg",
+      "Country Flag": "United States.jpg"
+    }
+  ]
+}

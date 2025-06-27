@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FinalProject.HistoryPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="countryStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="Caption"/>
+                <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            </Style>
+            <Style TargetType="Label">
+                <Setter Property="FontFamily" Value="Comic Sans MS"/>
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="HorizontalOptions" Value="StartAndExpand"/>
+            </Style>
+            <Style TargetType="Image">
+                <Setter Property="HorizontalOptions" Value="Start"/>
+                <Setter Property="WidthRequest" Value="100"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Margin" Value="30"/>
+                <Setter Property="CornerRadius" Value="20"/>
+                <Setter Property="BackgroundColor" Value="beige"/>
+                <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="labelText" HorizontalOptions="CenterAndExpand" Text="Dessert history is empty!" IsVisible="true"/>
+            <ListView x:Name="lv" ItemTapped="list_ItemTapped" Margin="30">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid HorizontalOptions="Start" Margin="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Source="{Binding Image}" Grid.Row="0" Grid.Column="0"/>
+                                <StackLayout Orientation="Vertical" VerticalOptions="Center" Grid.Row="0" Grid.Column="1">
+                                    <Label Text="{Binding DessertName}"/>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Style="{StaticResource countryStyle}" Text="Country: "/>
+                                        <Label Style="{StaticResource countryStyle}" Text="{Binding CountryName}"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Clear History" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USLocations", "USLocations\USLocations.csproj", "{C58FDE1A-73A3-4BB5-9585-7074AFF00806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{5B5D98F4-CC8B-4F4F-9605-919A69D208C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{EDFABEA3-FDDD-424E-B9EB-D5C77B53F138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58FDE1A-73A3-4BB5-9585-7074AFF00806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58FDE1A-73A3-4BB5-9585-7074AFF00806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58FDE1A-73A3-4BB5-9585-7074AFF00806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58FDE1A-73A3-4BB5-9585-7074AFF00806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5D98F4-CC8B-4F4F-9605-919A69D208C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5D98F4-CC8B-4F4F-9605-919A69D208C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5D98F4-CC8B-4F4F-9605-919A69D208C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5D98F4-CC8B-4F4F-9605-919A69D208C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFABEA3-FDDD-424E-B9EB-D5C77B53F138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFABEA3-FDDD-424E-B9EB-D5C77B53F138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFABEA3-FDDD-424E-B9EB-D5C77B53F138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFABEA3-FDDD-424E-B9EB-D5C77B53F138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31B6D58-41B2-4890-B062-6EAF33BC07EC}
+	EndGlobalSection
+EndGlobal

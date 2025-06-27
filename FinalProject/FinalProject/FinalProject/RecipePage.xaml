@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:FinalProject;assembly=FinalProject"
+            x:Class="FinalProject.RecipePage">
+    <TabbedPage.SelectedTabColor>hotpink</TabbedPage.SelectedTabColor>
+    <TabbedPage.BarBackgroundColor>Beige</TabbedPage.BarBackgroundColor>
+    <TabbedPage.UnselectedTabColor>Black</TabbedPage.UnselectedTabColor>
+
+    <ContentPage BackgroundColor="#ffcfce" x:Name="about" Title="About" IconImageSource="about.png">
+        <ContentPage.Resources>
+            <ResourceDictionary>
+                <Style x:Key="dessertNameStyle" TargetType="Label">
+                    <Setter Property="FontSize"  Value="Large"/>
+                    <Setter Property="FontFamily" Value="Comic Sans MS"/>
+                </Style>
+                <Style x:Key="timeStyle" TargetType="Label">
+                    <Setter Property="FontAttributes" Value="Bold"/>
+                    <Setter Property="FontFamily" Value="Comic Sans MS"/>
+                </Style>
+                <Style TargetType="Label">
+                    <Setter Property="FontFamily" Value="Comic Sans MS"/>
+                </Style>
+            </ResourceDictionary>
+        </ContentPage.Resources>
+        <StackLayout x:Name="stack">
+            <Image x:Name="image" HeightRequest="200" WidthRequest="200"/>
+            <StackLayout x:Name="innerStack">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <ImageButton x:Name="button" Source="unfav.png" HeightRequest="20" WidthRequest="20" Clicked="ImageButton_Clicked"/>
+                    <Label Style="{StaticResource dessertNameStyle}" x:Name="dName"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Label Text="Country:"/>
+                    <Label x:Name="cName"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                        <Image Source="prep.png" HeightRequest="15" WidthRequest="15"/>
+                        <Label Style="{StaticResource timeStyle}" Text="Prep Time: "/>
+                        <Label x:Name="prep"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="EndAndExpand">
+                        <Image Source="cook.png" HeightRequest="20" WidthRequest="20"/>
+                        <Label Style="{StaticResource timeStyle}" Text="Cook Time: "/>
+                        <Label x:Name="cook"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Image Source="serve.png" HeightRequest="15" WidthRequest="15"/>
+                    <Label Style="{StaticResource timeStyle}" Text="Serving Size: "/>
+                    <Label x:Name="serv"/>
+                </StackLayout>
+                <StackLayout>
+                    <ListView x:Name="desc" Margin="20"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage BackgroundColor="#ffcfce" x:Name="ingredient" Title="Ingredients" IconImageSource="ingredi.png">
+        <ContentPage.Resources>
+            <ResourceDictionary>
+                <Style TargetType="Label">
+                    <Setter Property="FontFamily" Value="Comic Sans MS"/>
+                </Style>
+            </ResourceDictionary>
+        </ContentPage.Resources>
+        <StackLayout>
+            <ListView x:Name="ingredientList">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding Type}" FontSize="Large" HorizontalTextAlignment="Center"/>
+                                <Label Text="{Binding Content}" FontSize="Medium"  HorizontalOptions="StartAndExpand"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage BackgroundColor="#ffcfce" x:Name="instruction" Title="Instructions" IconImageSource="method.png">
+        <ContentPage.Resources>
+            <ResourceDictionary>
+                <Style TargetType="Label">
+                    <Setter Property="FontFamily" Value="Comic Sans MS"/>
+                </Style>
+            </ResourceDictionary>
+        </ContentPage.Resources>
+        <StackLayout>
+            <ListView x:Name="instructionList">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label Text="{Binding Step}" FontSize="Large" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="0"/>
+                                <Label Text="{Binding Content}" FontSize="Medium"  HorizontalOptions="Start" Grid.Row="0" Grid.Column="1"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>
